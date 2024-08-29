@@ -1,1 +1,2 @@
 # drinkered_app
+Drinkered App is a Flutter-based application that simulates a beverage store, utilizing the Provider package for state management. The app features a shopping cart and includes a selection of test products, allowing users to experience the flow of browsing, selecting, and managing items as if they were shopping in a real online store. This makes it an excellent tool for demonstrating e-commerce functionality in a sleek and intuitive interface.
